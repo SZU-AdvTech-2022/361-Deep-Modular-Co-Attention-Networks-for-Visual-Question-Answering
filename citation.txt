@@ -1,0 +1,7 @@
+@inproceedings{REPO-362,
+    author = "Yu, Zhou and Yu, Jun and Cui, Yuhao and Tao, Dacheng and Tian, Qi",
+    booktitle = "Proceedings of the IEEE/CVF conference on computer vision and pattern recognition",
+    pages = "6281--6290",
+    title = "{Deep Modular Co-Attention Networks for Visual Question Answering}",
+    year = "2019"
+}
